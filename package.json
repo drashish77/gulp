@@ -1,0 +1,21 @@
+{
+  "name": "imageminizer",
+  "version": "1.0.0",
+  "description": "convert images to webp format",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  },
+  "dependencies": {
+    "gulp-imagemin": "^8.0.0",
+    "gulp-webp": "^4.0.1",
+    "imagemin": "^8.0.1",
+    "imagemin-webp": "^7.0.0"
+  }
+}
